@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209545218765",
+    "project_id": "a-schoolapp",
+    "storage_bucket": "a-schoolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209545218765:android:1a51c41484c465100cf784",
+        "android_client_info": {
+          "package_name": "com.example.a_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs-7leqsl1CMW2lXjf0V8EP7EealIgYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209545218765:android:0b3c7cdacac0fc7e0cf784",
+        "android_client_info": {
+          "package_name": "com.example.u_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs-7leqsl1CMW2lXjf0V8EP7EealIgYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
